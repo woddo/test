@@ -1,5 +1,5 @@
 <?php
 
-	print "test";
+	print "test"; //test
 
 ?>
