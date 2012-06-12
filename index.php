@@ -13,7 +13,7 @@ if(is_array($a))
 
 
 <?php
-	if($x == 12)
+	if($x == 12) dsfsdfsd
 	{
 		sdfdssf
 		//kaj sedaj naprej
@@ -21,6 +21,8 @@ if(is_array($a))
 	
 	function janez()
 	{
-		//probimo, če to dela
+		//probimo
+		
+		trereerfer
 	}
 ?>
