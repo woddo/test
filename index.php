@@ -12,5 +12,14 @@
 	//replace
 
 	//final test
+	
+	
+	//aptana 3
+	
+	
+	function tri()
+	{
+		print 3;
+	}
 
 ?>
