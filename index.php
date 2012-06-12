@@ -8,5 +8,12 @@
 	print "aaaaa";
 	
 	//bbbbbbb
+	
+	//cccccc
+	
+	function test()
+	{
+		print "12";
+	}
 
 ?>
