@@ -23,14 +23,6 @@ if(is_array($a))
 	{
 		//probimo
 		
-		//trereerfer
-		
-		print "tole popravimo";
-	}
-	
-	
-	function kajje($a=0)
-	{
-		print 12;
+		trereerfer
 	}
 ?>
