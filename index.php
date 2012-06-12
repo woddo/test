@@ -16,5 +16,6 @@ if(is_array($a))
 	if($x == 12)
 	{
 		sdfdssf
+		//kaj sedaj naprej
 	}   
 ?>
