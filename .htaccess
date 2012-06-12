@@ -1,0 +1,4 @@
+AuthType Basic
+AuthName "Datoteke uporabnika: tt"
+AuthUserFile /var/www/apache-gesla
+Require user tt nejc
