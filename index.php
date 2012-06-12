@@ -14,14 +14,23 @@
 	//final test
 	
 	
-	//aptana 3
+	//aptana 3 @
 	
 	
-	function tri()
+	function tri($a = 12)
 	{
-		print 3;
-		
+		if($a == 12)
+		{
+			$a = "wer";
+		}
 		return $a;
 	}
+	
+	function aaa()
+	{
+		return "null";		
+		
+	}
+
 
 ?>
