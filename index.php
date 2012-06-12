@@ -18,4 +18,9 @@ if(is_array($a))
 		sdfdssf
 		//kaj sedaj naprej
 	}   
+	
+	function janez()
+	{
+		//probimo, če to dela
+	}
 ?>
