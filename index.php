@@ -9,11 +9,20 @@
 	
 	//bbbbbbb
 	
+<<<<<<< HEAD
 	//cccccc
 	
 	function test()
 	{
 		print "12";
+=======
+	
+	//print tega testa in 12
+	
+	function test2()
+	{
+		esrsrrsf
+>>>>>>> spremembe
 	}
 
 ?>
