@@ -2,6 +2,7 @@
 
 	print "test"; //test
 	
-	//message and message and message
+
+//message message
 
 ?>
