@@ -20,6 +20,8 @@
 	function tri()
 	{
 		print 3;
+		
+		return $a;
 	}
 
 ?>
