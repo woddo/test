@@ -19,11 +19,15 @@
 	
 	function tri($a = 12)
 	{
+<<<<<<< HEAD
 		if($a == 12)
 		{
 			$a = "wer";
 		}
 		return $a;
+=======
+		print 3;
+>>>>>>> parent of 15aa624... Update test-2
 	}
 	
 	function aaa()
