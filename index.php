@@ -32,6 +32,7 @@
 	
 	function aaa()
 	{
+		$x = 12;
 		return "null";		
 		
 
